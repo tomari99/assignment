@@ -12,7 +12,7 @@ int main()
     char name [30];
     
     int bd = 0;
-    char ch;
+    
     int* bdptr;
     printf("Enter Your Name(no spaces) : ");
     scanf("%s",&name);
